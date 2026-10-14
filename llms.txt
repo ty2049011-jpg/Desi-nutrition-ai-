@@ -1,0 +1,12 @@
+# Desi Nutrition AI
+> Personalized Indian Nutrition. Powered by AI. Free calculators and guides for Indian diets. All values are estimates, not medical advice.
+
+## Key pages
+- [Indian diet plan guide](https://ainutrition.online/indian-diet-plan/): Balanced thali, goals, vegetarian and non-veg options
+- [Indian diet for weight loss](https://ainutrition.online/weight-loss/): Calorie deficit, protein, sample day
+- [Indian diet for muscle gain](https://ainutrition.online/muscle-gain/): Calorie surplus, protein, sample day
+- [Calorie calculator](https://ainutrition.online/calorie-calculator/): BMR, TDEE and calorie target
+- [Protein calculator](https://ainutrition.online/protein-calculator/): Daily protein in grams
+- [BMI calculator](https://ainutrition.online/bmi-calculator/): Asian and WHO ranges
+- [Sources and methodology](https://ainutrition.online/sources/): Formulas and source status
+- [About](https://ainutrition.online/about/): What the product is and its limits

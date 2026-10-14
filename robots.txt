@@ -1,0 +1,5 @@
+# Public content is open to search and AI crawlers. /app/ is private (noindex).
+User-agent: *
+Allow: /
+
+Sitemap: https://ainutrition.online/sitemap.xml
